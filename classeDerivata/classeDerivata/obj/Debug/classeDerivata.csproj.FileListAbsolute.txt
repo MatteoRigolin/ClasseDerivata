@@ -1,0 +1,7 @@
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\bin\Debug\classeDerivata.exe.config
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\bin\Debug\classeDerivata.exe
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\bin\Debug\classeDerivata.pdb
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\obj\Debug\classeDerivata.csproj.AssemblyReference.cache
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\obj\Debug\classeDerivata.csproj.CoreCompileInputs.cache
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\obj\Debug\classeDerivata.exe
+E:\4F 2021-2022\Visual studio\classeDerivata\classeDerivata\obj\Debug\classeDerivata.pdb
